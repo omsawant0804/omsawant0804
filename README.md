@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 CSE final-year student at N. K. Orchid College.<br>🛠️ Holds a Diploma in Computer Engineering.<br>📱 Keen on app development.<br>🚀 Advancing in backend tech.<br>
+🎓 CSE 2025 batch passout at N. K. Orchid College.<br>🛠️ Holds a Diploma in Computer Engineering.<br>📱 Keen on app development.<br>🚀 Advancing in backend tech.<br>
 
 
 ## 🌐 Socials:
